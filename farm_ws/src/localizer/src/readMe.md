@@ -18,4 +18,4 @@ Q what does derivative of an image would give?
 
 #Navigation Stack
 
-![](https://github.com/akgcode/farmbot/blob/main/assets/Navigation_stack.jpg)
+![](https://github.com/akgcode/farmbot/blob/main/assets/Navigation_stack.png)
